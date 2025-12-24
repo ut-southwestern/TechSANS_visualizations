@@ -28,3 +28,9 @@ If you use this notebook or its visualizations, please cite the associated manus
 ## License
 
 This project is licensed under the MIT License.
+
+## Acknowledgment
+
+This project is developed by the [IMAGINe Lab](https://labs.utsouthwestern.edu/rousseau-lab) at UTSW
+
+![IMAGINe Lab Logo](https://labs.utsouthwestern.edu/sites/default/files/styles/coh_medium/public/2024-09/I.M.A.G.I.N.E_%20LOGO_R3%20E%26E%20Artworks_0.jpeg?itok=DlZA-DVB)
